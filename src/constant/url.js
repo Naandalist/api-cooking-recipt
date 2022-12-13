@@ -1,3 +1,3 @@
-const baseUrl =process.env.BASE_URL;
+const baseUrl = "https://www.masakapahariini.com";
 
 module.exports = baseUrl;
